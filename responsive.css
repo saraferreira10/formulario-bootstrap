@@ -1,0 +1,6 @@
+@media (max-width: 800px) {
+    #container-form{
+        width: 70%;
+        padding: 50px;
+    }
+}

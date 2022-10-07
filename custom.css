@@ -1,0 +1,19 @@
+@import url(bootstrap.min.css);
+@import url(config.css);
+@import url(responsive.css);
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container-form{
+    color: var(--secondary);
+    width: 40%;
+    padding: 50px;
+    border: 1px inset var(--secondary);
+    border-radius: 10px;
+    background-color: var(--primary);
+}
